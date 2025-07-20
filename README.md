@@ -8,3 +8,5 @@
 <h2>💻 Tech Stack</h2>
 <img src="https://skillicons.dev/icons?i=vscode,html,css,js,nodejs,git,github&theme=dark" />
 
+[Acesse meu Linkedin](https://www.linkedin.com/in/lucas-martins-73472b255/)
+
